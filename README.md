@@ -3,6 +3,8 @@
 1. "UNKNOWN"
 1. ":"
 
+Or lines that don't include a ":"
+
 ## Made it in like 20 min
 
 so if you run into issues try (you probably will)
