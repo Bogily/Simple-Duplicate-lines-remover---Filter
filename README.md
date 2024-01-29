@@ -1,7 +1,7 @@
 # Removes duplicate lines and Lines that start with:
-2. " " (Space)
-2. "UNKNOWN"
-2. ":"
+1. " " (Space)
+1. "UNKNOWN"
+1. ":"
 
 ## Made it in like 20 min
 
