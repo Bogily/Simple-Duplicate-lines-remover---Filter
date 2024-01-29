@@ -5,6 +5,6 @@
 
 ## Made it in like 20 min
 
-if you run into issues try
+so if you run into issues try (you probably will)
 1. Putting in the entire filepath
 1. Running it in vscode
