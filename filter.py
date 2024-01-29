@@ -32,7 +32,7 @@ def remove_duplicates_and_filter(input_file, output_file):
 
 def main():
     print("Select an action:")
-    print("1. Remove duplicate lines and filter")
+    print("1. Quick Remove duplicate lines and filter")
     print("2. Other action (to be implemented)")
 
     choice = input("Enter your choice (1 or 2): ")
