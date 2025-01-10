@@ -7,6 +7,6 @@ Or lines that don't include a ":"
 
 ## Made it in like 20 min
 
-so if you run into issues try (you probably will)
+so if you run into issues (you probably will) try 
 1. Putting in the entire filepath
 1. Running it in vscode
